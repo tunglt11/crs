@@ -1,4 +1,4 @@
-package com.crs.entity;
+package com.crs.model;
 
 public class BankAccount {
 	String accountOwnerName;
